@@ -1,0 +1,46 @@
+header {
+    position: absolute;
+    
+    background-color:rgb(252, 0, 84)
+  }
+  header h1 {
+    font-family: Snell Roundhand, cursive;
+    font-size: 45px;
+  }
+  .menu ul {
+    padding:0px;
+    margin:0px;
+    background-color:#EDEDED;
+    list-style:none;
+    background-color:rgb(95, 210, 255);
+  }	
+  
+  .menu ul li { display: inline; 
+    background-color: 
+  }
+
+  .menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+    
+
+    /* visual do link */
+    background-color: rgb(95, 210, 255);
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid rgb(95, 210, 255);
+}
+
+  .menu a {
+    color:#333;
+  }
+  
+  .container {
+    margin: 0 auto;
+    width: 940px;
+  }
+  
+  body {
+    color: #333333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  }
